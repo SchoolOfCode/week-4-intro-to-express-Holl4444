@@ -8,7 +8,8 @@
 
 ## Part 2: Setting up a 'Hello World' server
 
-Our aim for this project is to follow the 'Hello World' steps on the Express documentation: http://expressjs.com/en/starter/hello-world.html. By following the example we will create a functioning server that returns the text 'Hello World!' when you navigate to the localhost port on the browser. However, for it to work with our preferred ES Modules syntax, we need to change from `require` to `import` - give that a go.
+Our aim for this project is to follow the 'Hello World' steps on the Express documentation: http://expressjs.com/en/starter/hello-world.html. By following the example we will create a functioning server that returns the text 'Hello World!' when you navigate to the localhost port on the browser. However, for it to work with our preferred ES Modules syntax, we need to change from `require` to `import` -
+ give that a go.
 
 ## Part 3: Understanding the code
 

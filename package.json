@@ -1,0 +1,24 @@
+{
+  "name": "week-4-intro-to-express-holl4444",
+  "version": "1.0.0",
+  "description": "## Part 1: Installing Express On Your Node Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SchoolOfCode/week-4-intro-to-express-Holl4444.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/week-4-intro-to-express-Holl4444/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/week-4-intro-to-express-Holl4444#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
